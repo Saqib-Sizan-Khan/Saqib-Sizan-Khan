@@ -42,7 +42,7 @@
 <p align="left">
     <img
       src="https://iconape.com/wp-content/png_logo_vector/android-robot-head.png"
-      alt="android" width="40" height="40" <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+      alt="android" width="40" height="40" href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img
       src="https://www.kindpng.com/picc/m/176-1766682_dart-programming-language-hd-png-download.png" alt="dart" width="40"
       height="40" /> </a> <a href="https://dart.dev/" target="_blank" rel="noreferrer">
