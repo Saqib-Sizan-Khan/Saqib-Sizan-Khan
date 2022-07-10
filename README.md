@@ -45,7 +45,7 @@
       alt="android" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
       src="https://www.kindpng.com/picc/m/176-1766682_dart-programming-language-hd-png-download.png" alt="dart" width="40"
-      height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer">
+      height="40" /> </a> <a href="https://dart.dev/" target="_blank" rel="noreferrer">
     <img
       src="https://yt3.ggpht.com/ytc/AKedOLRt1d4p7bPylasq_66BIC8-k3hkyVjJ2JICQITK=s900-c-k-c0x00ffffff-no-rj"
       alt="flutter" width="40" height="40" /> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
