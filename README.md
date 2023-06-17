@@ -28,8 +28,8 @@
   <a href="https://www.facebook.com/SSK.sz" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="adam pithen wala" height="30" width="40" /></a>
-  <a href="https://scholar.google.com/citations?hl=en&user=3O5idP4AAAAJ" target="blank"><img align="center"
-      src="https://github.com/Saqib-Sizan-Khan/Saqib-Sizan-Khan/assets/77047241/000753a7-c24e-4369-9043-cabe4aa73fa5"
+  <a href="https://orcid.org/0000-0002-7215-2463" target="blank"><img align="center"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/2048px-ORCID_iD.svg.png"
       alt="_._.adam._" height="30" width="30" /></a>
   <a href="https://www.hackerrank.com/ssk123098" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
