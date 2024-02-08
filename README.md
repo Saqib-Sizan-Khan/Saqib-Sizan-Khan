@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saqib Sizan Khan</h1>
-<h3 align="center">Student at University of Asia Pacific, Bangladesh🌟.</h3>
+<h3 align="center">Student at IIT, University of Dhaka, Bangladesh🌟.</h3>
 
 <br>
 
