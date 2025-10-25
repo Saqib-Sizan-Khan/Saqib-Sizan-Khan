@@ -12,9 +12,9 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 👔 Expert in Machine Learning  and Mobile Development
+- 👔 Expert in Manual and Automation testing, Test script writing, Test case design
 
-- 📫 How to reach me **ssk123098@gmail.com**
+- 📫 How to reach me **sizan.cit.bd@gmail.com**
 
 - ⚡ Fun fact :- love and Care are the reasons to live.
 
