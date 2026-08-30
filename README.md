@@ -14,7 +14,7 @@
 
 - 👔 Expert in Manual and Automation testing, Test script writing, Test case design
 
-- 📫 How to reach me **sizan.cit.bd@gmail.com**
+- 📫 How to reach me **sizan.sqa@gmail.com**
 
 - ⚡ Fun fact :- love and Care are the reasons to live.
 
